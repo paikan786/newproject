@@ -1,4 +1,8 @@
 dftext
 jkhkj
 sdfs
+<<<<<<< HEAD
 new in local
+=======
+new on website
+>>>>>>> 2609f6937d08c17138721231621f41abb2c3d257
